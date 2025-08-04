@@ -44,7 +44,7 @@ My mission: build AI agents and automation platforms that **simplify lending, ac
 ---
 
 ## 📈 What I’m Working On
-- Building **Agentrix** – an AI agent platform for loan officers, realtors, and financial advisors.  
+- Building an AI agent platform for mortgage underwriters and loan officers.
 - Designing **MVP → Growth roadmap** for my AI Mortgage Assistant SaaS.  
 - Growing my skills in **production-ready AI agents** (LangChain, CrewAI, orchestration).  
 
