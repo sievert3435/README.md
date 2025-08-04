@@ -1,6 +1,4 @@
-# README.md
-
-🚀 **Mortgage AI Innovator | Loan Officer | Former Senior Underwriter**  
+# 🚀 Mortgage AI Innovator | Loan Officer | Former Senior Underwriter
 
 Blending **10+ years in mortgage lending & underwriting** with **AI-driven automation and workflow engineering**.  
 My mission: build AI agents and platforms that **simplify lending, accelerate closings, and empower loan officers**.  
