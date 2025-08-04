@@ -36,7 +36,7 @@ My mission: build AI agents and platforms that **simplify lending, accelerate cl
   *Stack: OpenAI + Supabase + GoHighLevel*  
 
 - **AppTrackr AI**  
-  Agent that recalls loan status, conditions, and scrapes updates.  
+  Agent that recalls loan status, conditions, and scrapes updates for interested parties.  
 
 - **AI Purchase Agreement Scraper**  
   Extracts purchase price, address, contingencies, and sets LO due-date reminders.  
