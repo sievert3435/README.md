@@ -10,7 +10,7 @@ My mission: build AI agents and platforms that **simplify lending, accelerate cl
 - 🏡 **Mortgage Lending Pro**: 10+ years in origination, underwriting, and loan officer roles.  
 - 🤖 **AI Agent Builder**: Orchestrating full-stack automation for document parsing, underwriting logic, and client engagement.  
 - 📊 **Business Strategist**: Designing SaaS models that scale across loan officers, brokers, and lenders.  
-- 🎯 **Career Goal**: Transition into **AI/Fintech sales engineering** while scaling my **AI Mortgage Assistant platform**.  
+- 🎯 **Career Goal**: Transition into **AI/Fintech sales engineering, AI Researcher, or AI Engineer** while scaling my **AI Mortgage Assistant platform**.  
 
 ---
 
@@ -32,10 +32,10 @@ My mission: build AI agents and platforms that **simplify lending, accelerate cl
 
 - **AI Doc Follow-Up Agent**  
   Tracks missing docs and nudges borrowers via SMS/Email.  
-  *Stack: GPT-4o + Supabase + GoHighLevel*  
+  *Stack: OpenAI + Supabase + GoHighLevel*  
 
 - **AppTrackr AI**  
-  Agent that recalls loan status, conditions, and scrapes processor updates.  
+  Agent that recalls loan status, conditions, and scrapes updates.  
 
 - **AI Purchase Agreement Scraper**  
   Extracts purchase price, address, contingencies, and sets LO due-date reminders.  
@@ -43,7 +43,7 @@ My mission: build AI agents and platforms that **simplify lending, accelerate cl
 ---
 
 ## 📈 What I’m Building
-- **Agentrix** – AI agent platform for loan officers, realtors, and financial advisors.  
+- AI agent platform for loan officers, realtors, and financial advisors.  
 - **MVP → Growth Roadmap** for AI Mortgage Assistant SaaS.  
 - Exploring **LangChain + CrewAI** for production-grade AI orchestration.  
 
