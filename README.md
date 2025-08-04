@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aaron Sievert  
 
-🚀 **Mortgage AI Innovator | Loan Officer | Former Senior Underwriter   
+🚀 **Mortgage AI Innovator | Loan Originator | Former Senior Underwriter   
 Blending **10+ years in mortgage lending & underwriting** with cutting-edge **AI automation and workflow engineering**.  
 My mission: build AI agents and automation platforms that **simplify lending, accelerate closings, and empower loan officers**.  
 
