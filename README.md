@@ -51,9 +51,8 @@ My mission: build AI agents and automation platforms that **simplify lending, ac
 ---
 
 ## 🌐 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/aaron-sievert/)  
-- 📝 [Twitter/X](https://twitter.com/) *(optional – let me know if you use)*  
-- 📧 Email: *[your email here]*  
+- 💼 [LinkedIn](www.linkedin.com/in/aaron-sievert-18497659)  
+- 📧 Email: Sievert3435@gmail.com 
 
 ---
 
