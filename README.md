@@ -9,10 +9,10 @@ My mission: build AI agents and automation platforms that **simplify lending, ac
 ---
 
 ## 🔑 About Me
-- 🏡 **Mortgage Lending Pro**: 10+ years experience in origination, underwriting, and loan officer roles.  
-- 🤖 **AI Agent Builder**: Designing and deploying automation with **n8n, LangChain, CrewAI, Supabase, Pinecone, and GPT models**.  
-- 📊 **Business Strategist**: Focused on **scalable SaaS models**, automation efficiency, and client/realtor success.  
-- 🎯 Career Goal: Transition into **AI/Fintech sales engineering** while building my own **AI Mortgage Assistant platform**.  
+- Mortgage Lending Pro: 10+ years experience in origination, underwriting, and loan officer roles.  
+- AI Agent Builder: Designing and deploying automation with **n8n, LangChain, CrewAI, Supabase, Pinecone, and GPT models**.  
+- Business Strategist: Focused on **scalable SaaS models**, automation efficiency, and client/realtor success.  
+- Career Goal: Transition into **AI/Fintech sales engineering** while building my own **AI Mortgage Assistant platform**.  
 
 ---
 
