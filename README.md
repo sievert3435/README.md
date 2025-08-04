@@ -1,52 +1,51 @@
 # README.md
 
-# 👋 Hi, I'm Aaron Sievert  
-
-🚀 **Mortgage AI Innovator | Loan Originator | Former Senior Underwriter   
-Blending **10+ years in mortgage lending & underwriting** with cutting-edge **AI automation and workflow engineering**.  
-My mission: build AI agents and automation platforms that **simplify lending, accelerate closings, and empower loan officers**.  
+🚀 **Mortgage AI Innovator | Loan Officer | Former Underwriter | Future Sales Engineer**  
+Blending **10+ years in mortgage lending & underwriting** with **AI-driven automation and workflow engineering**.  
+My mission: build AI agents and platforms that **simplify lending, accelerate closings, and empower loan officers**.  
 
 ---
 
 ## 🔑 About Me
-- Mortgage Lending Pro: 10+ years experience in origination, underwriting, and loan officer roles.  
-- AI Agent Builder: Designing and deploying automation with **n8n, LangChain, CrewAI, Supabase, Pinecone, and GPT models**.  
-- Business Strategist: Focused on **scalable SaaS models**, automation efficiency, and client/realtor success.  
-- Career Goal: Transition into **AI/Fintech sales engineering** while building my own **AI Mortgage Assistant platform**.  
+- 🏡 **Mortgage Lending Pro**: 10+ years in origination, underwriting, and loan officer roles.  
+- 🤖 **AI Agent Builder**: Orchestrating full-stack automation for document parsing, underwriting logic, and client engagement.  
+- 📊 **Business Strategist**: Designing SaaS models that scale across loan officers, brokers, and lenders.  
+- 🎯 **Career Goal**: Transition into **AI/Fintech sales engineering** while scaling my **AI Mortgage Assistant platform**.  
 
 ---
 
-## 🛠️ Tech & Tools I Work With
-- **Automation & Orchestration**: n8n, Make, Zapier  
-- **AI & LLMs**: OpenAI API (GPT-4o, structured JSON), LangChain, CrewAI, RAG agents  
-- **Parsing & Data**: LlamaParse, Azure Form Recognizer, Google Vision OCR  
-- **Databases & Storage**: Supabase (Postgres, Storage, Dashboard), Pinecone (vector DB)  
-- **CRM & Engagement**: GoHighLevel, MBS Highway  
-- **Version Control & Collab**: GitHub, Git  
+## 🛠️ My Tech Stack
+- **Workflow Orchestration**: `n8n` (error handling, retries, dynamic routing)  
+- **Doc Parsing Layer**: `LlamaParse`, `Azure Form Recognizer`, `Hyperscience` (for semi-structured/handwritten docs)  
+- **Data Normalization**: JSON schema validation + structured output parsing  
+- **Reasoning & Underwriting Logic**: `OpenAI API` (GPT-4o)  
+- **Retrieval Layer**: `RAG` + `Pinecone` (prior docs, guidelines, income rules)  
+- **Database & Human-in-Loop**: `Supabase` (audit trail, dashboards, storage/S3)  
+- **CRM & Engagement**: `GoHighLevel` + `MBS Highway` (client/realtor automation, market insights)  
 
 ---
 
 ## 📌 Featured Projects
 - **AI Mortgage Underwriting Agent**  
-  Workflow to parse borrower docs, extract structured data, and run AI-driven income/prequal checks.  
-  *Stack: n8n, OpenAI, LlamaParse, Supabase, Pinecone*
+  Automates doc intake → parsing → AI underwriting logic → LO approval.  
+  *Stack: n8n + OpenAI + LlamaParse/Azure + Pinecone + Supabase*  
 
 - **AI Doc Follow-Up Agent**  
-  Smart assistant that follows up with borrowers on missing documents via SMS/Email (GoHighLevel integration).  
-  *Stack: GPT-4o, Supabase, GHL*
+  Tracks missing docs and nudges borrowers via SMS/Email.  
+  *Stack: GPT-4o + Supabase + GoHighLevel*  
 
 - **AppTrackr AI**  
-  An agent that recalls loan application status, tracks pending conditions, and scrapes processor emails for real-time updates.  
+  Agent that recalls loan status, conditions, and scrapes processor updates.  
 
 - **AI Purchase Agreement Scraper**  
-  Reads purchase agreements (PDF/Email), extracts key data (price, address, contingencies), and sets up due-date reminders.  
+  Extracts purchase price, address, contingencies, and sets LO due-date reminders.  
 
 ---
 
-## 📈 What I’m Working On
-- Building an AI agent platform for mortgage underwriters and loan officers.
-- Designing **MVP → Growth roadmap** for my AI Mortgage Assistant SaaS.  
-- Growing my skills in **production-ready AI agents** (LangChain, CrewAI, orchestration).  
+## 📈 What I’m Building
+- **Agentrix** – AI agent platform for loan officers, realtors, and financial advisors.  
+- **MVP → Growth Roadmap** for AI Mortgage Assistant SaaS.  
+- Exploring **LangChain + CrewAI** for production-grade AI orchestration.  
 
 ---
 
